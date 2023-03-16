@@ -1,0 +1,10 @@
+*{
+    background-color: rgba(54, 167, 80, 0.3);
+    color: rgb(177, 251, 87);
+    border: 3px dashed rgb(10, 177, 10);
+    margin: 5px;
+    padding: 5px;
+}
+html{
+    background-color: black;
+}
